@@ -1,0 +1,47 @@
+body{
+	background:#474747 url(../images/bg.png);
+}
+
+@font-face {
+    font-family: "DS-Digital";
+    src: url("../fonts/Ds-digib.ttf");
+}
+
+#container{
+	width:1000px;
+	height:600px;
+	background:gray;
+	margin:0 auto;
+	padding:10px;
+	box-shadow: 5px 5px 50px #999; 
+	position: relative;
+}
+
+canvas{
+	background:white;
+}
+
+header{
+	width:1000px;
+	height:65px;
+	line-height:100px;
+	margin:0 auto;
+	font: 50px Tahoma, Helvetica, Arial, Sans-Serif;
+	text-align: center;
+	color: #222; text-shadow: 0px 2px 5px #555;
+}
+
+footer{
+	width:1000px;
+	height:40px;
+	text-align:center;
+	line-height:50px;
+	margin:0 auto;
+}
+
+footer #author{
+	display: block;
+	font: 20px Helvetica, Arial, Sans-Serif; letter-spacing: -2px;  
+	text-align: center;
+	color: #999; text-shadow: 0px 3px 8px #2a2a2a;
+}

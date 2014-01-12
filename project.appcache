@@ -1,0 +1,19 @@
+CACHE MANIFEST
+NETWORK:
+comm.cgi
+CACHE:
+index.html
+js/jquery-1.9.1.js
+js/project.js
+css/project.css
+sounds/BGM.mp3
+sounds/shoot.ogg
+images/bg.png
+images/bullet.png
+images/button/png
+images/Cloud-sky.jpg
+images/enemy_1.png
+images/enemy_2.png
+images/explosion.png
+images/fighter.png
+fonts/DS-DIGIB.TTF
